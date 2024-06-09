@@ -15,8 +15,10 @@ How to use:
   - Feel free to check Demo for examples and read the comments inside the blueprints.
 - Make adjustments accordingly to fit your project.
 
-## Current Version: v1.0.0.0
-[PH] Future Changelog will be placed here. [PH]
+## Current Version: v1.0.0.1
+Newest Updates:
+- Added remap functions to read values from SpinBox. This will allow a more dynamic user's Min and Max values.
+- Fixed issue with mmor_HexTextFillerA, not retrieving the correct HexCode from Default Color.
 
 ### Versioning Details:
 - x.\_.\_.\_ : Honestly, might not happen. Reserved for Major Updates.
@@ -49,3 +51,11 @@ How to use:
 <img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/ee357099-ee5b-4224-ae30-da5b477efd48"/>
 
 - More Coming Soon...
+
+## Changelog:
+- v1.0.0.1
+  - Added remap functions to read values from SpinBox. This will allow a more dynamic user's Min and Max values.
+  - Fixed issue with mmor_HexTextFillerA, not retrieving the correct HexCode from Default Color.
+
+- v1.0.0.0
+  - First Public Release
