@@ -15,7 +15,7 @@ How to use:
   - Feel free to check Demo for examples and read the comments inside the blueprints.
 - Make adjustments accordingly to fit your project.
 
-## Current Version: v1.0.0.1
+## Current Version: v1.0.0.0
 [PH] Future Changelog will be placed here. [PH]
 
 ### Versioning Details:
@@ -39,9 +39,13 @@ How to use:
 
 - Alpha Channel Toggle
 
-<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/b0a22569-2ab3-44b7-969b-6c6fc8fbb753"/>
+<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/78bce920-9ffc-4dd8-afe2-a775e095b231"/>
+
 <img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/b0a22569-2ab3-44b7-969b-6c6fc8fbb753"/>
 
 ## Types:
 - Standard (2 Color Spaces)
+
+<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/ee357099-ee5b-4224-ae30-da5b477efd48"/>
+
 - More Coming Soon...
