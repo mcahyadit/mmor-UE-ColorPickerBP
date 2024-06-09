@@ -26,16 +26,21 @@ How to use:
 
 ## Features:
 - Dynamic Color Slider
-<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/92ba7c62-7e69-439c-910d-ef7013415b9b"/>
+
+<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/9c9ab95d-94e7-411d-94fa-76136fd9bf42"/>
 
 - Channel Switching
-<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/e9fceb28-c130-4fc7-a256-617800b4b4ac"/>
+
+<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/290bd434-a580-4dc9-845d-31141cd6c664"/>
 
 - Live HexCode Editing
-<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/7e19ce2c-edef-451a-9ed7-0f4a5d23e7fe"/>
 
-- Adjustable to your needs
+<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/36432bfb-38f2-41b8-aa34-546f2531a9ce"/>
+
 - Alpha Channel Toggle
+
+<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/b0a22569-2ab3-44b7-969b-6c6fc8fbb753"/>
+<img src="https://github.com/mcahyadit/mmor-UE-ColorPickerBP/assets/60179302/b0a22569-2ab3-44b7-969b-6c6fc8fbb753"/>
 
 ## Types:
 - Standard (2 Color Spaces)
